@@ -1,0 +1,55 @@
+[
+    {
+        "_id":1,
+        "name": "HP 27 INCH LED IPS MONITOR | M27FW",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/l/e/left_facing_2_4.png",
+        "price" : "27,500.00",
+        "available": 230,
+        "rating": 27,
+        "description":"Model: HP 27 INCH M27FW LED IPS MONITOR , Display size: 68.6 cm Brightness: 300 nits"
+    },
+    {
+        "_id":2,
+        "name": "DELL OptiPlex 7080 Core I7-Free DOS",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/e/z/ezgif.com-webp-to-jpg_2.jpg",
+        "price" : "90,000.00",
+        "available": 20,
+        "rating": 37,
+        "description":"Premium intelligent desktops. Intelligent business tower and small form factor desktops that deliver ultimate expandability and performance. With 10th GeIntel® processors. "
+    },
+    {
+        "_id":3,
+        "name": "GIGABYTE 24 INCH IPS GAMING LED MONITOR 165Hz | G24F-EK",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/d/o/download_9_1.jpg",
+        "price" : "24,000.00",
+        "available": 87,
+        "rating": 7,
+        "description":"G24F-EK # GIGABYTE 24 INCH IPS GAMING LED MONITOR 165Hz"
+    },
+    {
+        "_id":4,
+        "name": "HP ProOne 400 G6 Core I7",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/i/aio.png",
+        "price" : "123,000.00",
+        "available": 40,
+        "rating": 23,
+        "description":"Intel Core i7-10700 Processor (16M Cache, 2.90 GHz up to 4.80 GHz) 8GB RAM+ 256GB SSD+1TB HDD AMD Radeon™ 630 Graphics (2 GB GDDR5 dedicated) Wireless Keyboard and Mouse 23.8 Full HD (1920 x1080) Display"
+    },
+    {
+        "_id":5,
+        "name": "V2.0 WIERD USB Keyboard",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/2/1/21c1_joe_encore3_m22f_jetblack_coreset_front_1.png",
+        "price" : "67,340.00",
+        "rating": 30,
+        "available": 0
+    },
+    {
+        "_id":6,
+        "name": "HP 280 Pro G8 MT Core I5",
+        "img": "https://www.smartbd.com/media/catalog/product/cache/1/rotator_image/300x300/9df78eab33525d08d6e5fb8d27136e95/c/0/c07104799.png",
+        "price" : "67,500.00",
+        "available": 130,
+        "rating": 27,
+        "description":"HP 280 Pro G8 MT Core i5. Intel 11th Gen Core i5-11500 Processor-2.7GHz Turbo Boost 4.6GHz (12MB Cache).Intel H570 Chipset.8GB DDR4 RAM-3200MHz; 2 DIMM slots enabling up to 64GB"
+    }
+]
